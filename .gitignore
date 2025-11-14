@@ -1,0 +1,8 @@
+# PostregSQL Dtabaase Files
+Database/
+
+# .env file with credentials
+.env
+
+# requirements.txt file
+requirements.txt
