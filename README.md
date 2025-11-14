@@ -1,2 +1,2 @@
 # aws-ff-data
-streamlit app files for FinalFunnel
+streamlit app files for Data
